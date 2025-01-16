@@ -1,0 +1,16 @@
+program 
+start
+variable integer_4 Aaaaaaaaaaaa,Bbbbbbbbbbbb,Xxxxxxxxxxxx,Yyyyyyyyyyyy;
+input Aaaaaaaaaaaa;
+input Bbbbbbbbbbbb
+output Aaaaaaaaaaaa + Bbbbbbbbbbbb;
+output Aaaaaaaaaaaa - Bbbbbbbbbbbb;
+output Aaaaaaaaaaaa * Bbbbbbbbbbbb;
+output Aaaaaaaaaaaa / Bbbbbbbbbbbb;
+output Aaaaaaaaaaaa % Bbbbbbbbbbbb;
+
+Xxxxxxxxxxxx==>(Aaaaaaaaaaaa - Bbbbbbbbbbbb) * 10 + (Aaaaaaaaaaaa + Bbbbbbbbbbbb) / 10;
+Yyyyyyyyyyyy==>Xxxxxxxxxxxx + (Xxxxxxxxxxxx % 10);
+output Xxxxxxxxxxxx;
+output Yyyyyyyyyyyy;
+stop

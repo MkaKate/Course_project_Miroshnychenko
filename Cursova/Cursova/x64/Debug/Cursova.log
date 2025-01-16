@@ -1,0 +1,3 @@
+﻿  parser.cpp
+D:\C++\3cource\1semestr\Cursova\Cursova\parser.cpp(120,99): warning C4018: '<=': signed/unsigned mismatch
+  Cursova.vcxproj -> D:\C++\3cource\1semestr\Cursova\x64\Debug\Cursova.exe

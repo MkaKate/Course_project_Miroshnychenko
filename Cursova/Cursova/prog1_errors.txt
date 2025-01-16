@@ -1,0 +1,31 @@
+Lexical Error: line 3, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 3, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 3, lexem Xxxxxxxxxxxx is Unknown
+Lexical Error: line 3, lexem Yyyyyyyyyyyy is Unknown
+Lexical Error: line 4, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 5, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 6, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 6, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 7, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 7, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 8, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 8, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 9, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 9, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 10, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 10, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 12, lexem Xxxxxxxxxxxx is Unknown
+Lexical Error: line 12, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 12, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 12, lexem Aaaaaaaaaaaa is Unknown
+Lexical Error: line 12, lexem Bbbbbbbbbbbb is Unknown
+Lexical Error: line 13, lexem Yyyyyyyyyyyy is Unknown
+Lexical Error: line 13, lexem Xxxxxxxxxxxx is Unknown
+Lexical Error: line 13, lexem Xxxxxxxxxxxx is Unknown
+Lexical Error: line 14, lexem Xxxxxxxxxxxx is Unknown
+Lexical Error: line 15, lexem Yyyyyyyyyyyy is Unknown
+
+Syntax error in line 3 : another type of lexeme was expected.
+
+Syntax error: type Unknown
+Expected Type: Identifier 
